@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ◈ NEXUS//ZERO
 
-## Getting Started
+### `WEB EXPOSURE ANALYZER`
 
-First, run the development server:
+**Enxergue além da superfície digital.**
+
+Uma ferramenta de análise de exposição web que reúne verificações de segurança em uma interface futurista, interativa e intuitiva.
+
+<p align="center">
+  <a href="https://nexus-zero-nine.vercel.app/"><strong>↗ ACESSAR PROJETO</strong></a>
+  &nbsp; ◈ &nbsp;
+  <a href="https://github.com/LeonardoGodoy2005/nexus-zero"><strong>⌘ CÓDIGO-FONTE</strong></a>
+</p>
+
+---
+
+### ⚡ Funcionalidades
+
+- ◈ **HTTP Headers** — identificação de configurações de segurança ausentes.
+- ◈ **TLS Inspection** — verificação de HTTPS e certificado TLS.
+- ◈ **Redirect Analysis** — rastreamento de redirecionamentos.
+- ◈ **Security Report** — pontuação, achados e recomendações.
+- ◈ **Threat Reputation** — consulta de reputação sujeita à configuração de API.
+
+### 🛠️ Stack
+
+`Next.js` `React` `TypeScript` `Node.js` `Vercel`
+
+### 🚀 Executar localmente
 
 ```bash
+git clone https://github.com/LeonardoGodoy2005/nexus-zero.git
+cd nexus-zero
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Acesse `http://localhost:3000`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 👨‍💻 Desenvolvido por Leonardo Godoy
 
-## Learn More
+[GitHub](https://github.com/LeonardoGodoy2005) · [LinkedIn](https://www.linkedin.com/in/leonardo-godoy-b56361300/)
 
-To learn more about Next.js, take a look at the following resources:
+<p align="center">
+  <strong>NEXUS//ZERO</strong><br>
+  <code>ANALYZE. IDENTIFY. IMPROVE.</code>
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> Os resultados são indicativos e não substituem uma auditoria profissional de segurança. Utilize apenas em domínios próprios ou autorizados.
