@@ -1,6 +1,5 @@
 # ◈ NEXUS//ZERO
 
-### `WEB EXPOSURE ANALYZER`
 
 **Enxergue além da superfície digital.**
 
